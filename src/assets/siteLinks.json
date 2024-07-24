@@ -12,26 +12,26 @@
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://s-player-teal.vercel.app/"
+    "link": "https://music.12mt.cn/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://snavigation-gamma.vercel.app/"
+    "link": "https://nav.12mt.cn/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.12mt.cn/"
+    "name": "工具集",
+    "link": "https://it-tools.12mt.cn/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.liut.us.kg/"
+    "link": "https://hot.12mt.cn/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.liut.us.kg/"
+    "link": "https://status.12mt.cn/"
   }
 ]
